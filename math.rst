@@ -1,4 +1,4 @@
-**CMATH MODULE**
+**MATH MODULE**
 ----------------------------------------
 This module is available in python standard library. It is used for the
 mathematical functions.
